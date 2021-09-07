@@ -1,5 +1,9 @@
 # bank operations
-https://www.code-inspector.com/project/27824/score/svg
+
+<p align="center">
+    <img src="https://www.code-inspector.com/project/27824/score/svg"
+        height="130">
+
 
 + * We will implement below operations 
 + * Creating bank account

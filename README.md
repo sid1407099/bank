@@ -1,8 +1,10 @@
 # bank operations
 
+
+</p>
 <p align="center">
-    <img src="https://www.code-inspector.com/project/27824/score/svg"
-        height="130">
+    <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://www.code-inspector.com/project/27824/score/svg" /></a>
 
 
 + * We will implement below operations 

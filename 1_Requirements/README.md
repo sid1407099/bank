@@ -1,7 +1,7 @@
-#Introduction
+# Introduction
 + * In this project a version of banking institution shown which accepts deposit,withdraw and current balance depending on the input of customer.
 
-#Objective
+# Objective
 +  To perform the required banking operaions selected by the user
 + Output of the same result if choice meets the requirement
 

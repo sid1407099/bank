@@ -39,6 +39,8 @@
 ## SWOT Analysis
 
 ![Swot](https://github.com/Shwetha-H/Stepin-Scientific-Calculator/blob/8511ab0ba9f79ff5e8ee53e530a3291c61a40eb9/5.%20Images/Swot.jpg)
+(![Swot](https://github.com/sid1407099/bankoperations/blob/main/6_ImagesAndVideos/Screenshot%20(148).png)
+
 
 ### High Level Requirements 
 | ID | Description | Status (Implemented/Future) | 

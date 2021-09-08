@@ -36,7 +36,9 @@
  
  
  
+## SWOT Analysis
 
+![Swot](https://github.com/Shwetha-H/Stepin-Scientific-Calculator/blob/8511ab0ba9f79ff5e8ee53e530a3291c61a40eb9/5.%20Images/Swot.jpg)
 
 ### High Level Requirements 
 | ID | Description | Status (Implemented/Future) | 

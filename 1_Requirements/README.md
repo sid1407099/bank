@@ -2,7 +2,7 @@
 + * In this project a version of banking institution shown which accepts deposit,withdraw and current balance depending on the input of customer.
 
 #Objective
-+ * To perform the required banking operaions selected by the user
++  To perform the required banking operaions selected by the user
 + Output of the same result if choice meets the requirement
 
 ## ***4 W's and 1 H***
